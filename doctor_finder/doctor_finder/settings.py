@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-_xaa_)s&g==9n513bzjbbi=y#%(8mcukxyu6ps#ljw*kuydt=(
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['findyourdoctor.onrender.com', 'localhost', '127.0.0.1']
 
 
 # Application definition
